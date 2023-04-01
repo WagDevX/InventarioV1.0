@@ -1,0 +1,5 @@
+pandas~=1.5.3
+customtkinter~=5.1.2
+py2exe~=0.13.0.0
+opencv-python~=4.7.0.72
+pyzbar~=0.1.9
